@@ -1,4 +1,4 @@
-# webdev-coursera
+# coursera-class-files
 HTML, CSS, and Javascript for Web Developers by Johns Hopkins University
 
 Main links <br />
